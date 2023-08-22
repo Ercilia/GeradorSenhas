@@ -1,2 +1,2 @@
 # GeradorSenhas
-projeto do curso de frontend com o professor Matheus Batisti
+projeto do curso de Front-end com o professor Matheus Batisti
